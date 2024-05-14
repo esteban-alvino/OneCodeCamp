@@ -1,0 +1,8 @@
+Initialize Git Repository
+git init
+
+U - means untrack by git
+
+git config --global user.name "esteban-alvino"
+
+git config --global user.email "estebanalvino.syseng@gmail.com"

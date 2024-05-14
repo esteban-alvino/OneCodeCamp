@@ -1,0 +1,26 @@
+Make a Directory/Folder
+mkdir [directory_name]
+
+Remove Directory/Folder
+rmdir [directory_name]
+
+pwd - print working Directory
+pwd
+
+ls - list command
+
+Change Directory
+cd [directory_name/directory_path]
+
+go back one directory
+cd ..
+
+how to create a file
+touch test.txt
+
+create files
+touch [file_name]
+
+remove a file
+rm [file_name]
+
