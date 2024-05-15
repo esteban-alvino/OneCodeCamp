@@ -21,3 +21,13 @@ git status
 
 show the history
 git log 
+
+Create branch
+git branch feature
+
+list branches
+git branch -a
+
+checkout
+git checkout feature
+
