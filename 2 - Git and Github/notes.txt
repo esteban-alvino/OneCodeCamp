@@ -31,3 +31,14 @@ git branch -a
 checkout
 git checkout feature
 
+git log --oneline
+
+git branch -d feature
+
+merging
+Merging feature branch into the master
+git merge [branch-name]
+
+Delete a branch
+git branch -d [branch-name]
+
