@@ -42,3 +42,7 @@ git merge [branch-name]
 Delete a branch
 git branch -d [branch-name]
 
+git remote add origin [repository-url]
+git branch -M main 
+git push -u origin main
+git push
